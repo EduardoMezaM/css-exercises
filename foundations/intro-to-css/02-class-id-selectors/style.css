@@ -1,0 +1,18 @@
+.odd{
+    background-color: #ec65a8;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#SecElem{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.diff-font{
+    font-size: 24px;
+}
+
+#fourthElem{
+    background-color: #90EE90;
+    font-weight: bold;
+}
